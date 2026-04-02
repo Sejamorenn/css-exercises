@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+p {
+    background-color: rgb(230, 148, 160);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.bigger {
+    font-size: 25px;
+}
+
+#special {
+    color: rgb(33, 33, 219);
+    font-size: 35px;
+}
+
+#greenone {
+    background-color: rgb(129, 230, 129);
+    font-weight: bold;
+    font-size: 22px;
+}
